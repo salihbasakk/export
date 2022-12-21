@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-$ git clone 
+$ git clone git@github.com:salihbasakk/export.git
 ``````
 
 ## Running the app
